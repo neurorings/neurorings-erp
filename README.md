@@ -1,2 +1,3 @@
-# neurorings-erp
-NeuroRings ERP aims to make enterprise-grade resource planning accessible for small businesses worldwide — open, modular, developer-friendly, and fully community-driven.
+# 👋 Welcome to NeuroRings
+An open community building the next-generation open-source ERP for SMEs.  
+💡 Modular. 💻 Developer-friendly. 🌍 Built by the community, for the community.
